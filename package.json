@@ -14,5 +14,8 @@
     "inquirer": "^9.2.16",
     "yeoman-environment": "^4.4.0"
   },
-  "type": "module"
+  "type": "module",
+  "bin":{
+    "ryan-cli":"./index.js"
+  }
 }
