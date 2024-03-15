@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import { createEnv } from 'yeoman-environment';
 import inquirer from 'inquirer';
 
